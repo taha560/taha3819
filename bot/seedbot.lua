@@ -226,30 +226,25 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users = {110626080,103649648,143723991,111020322,0,tonumber(our_id)},--Sudo users
+    sudo_users = {153545455,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
+    about_text = [[CeWeR v2 - Open Source
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/SEEDTEAM/TeleSeed
+https://github.com/CeWeR/CeWeR-SP
 
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@Rondoozle [Developer]
-@seyedan25 [Manager]
+@CeWeR [Founder]
+@Mehdi_Oktay [Developer]
+@jacki_pendelton [Developer]
+@CeWeR_TFB [Manager]
 
 Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
+CeWeR
 
 Our channels
-@teleseedch [English]
-@iranseed [persian]
-]],
+@CeWeR_Team ]],
     help_text_realm = [[
 Realm Commands:
 
@@ -314,7 +309,7 @@ Only sudo users can run this command
 This command will send text to [group_id]
 
 
-**U can use both "/" and "!" 
+**U can use both "/" and "!" or "#"
 
 
 *Only admins and sudo can add bots in group
@@ -420,7 +415,7 @@ will return group logs
 !banlist
 will return group ban list
 
-**U can use both "/" and "!" 
+**U can use both "/" and "!" or "#"
 
 
 *Only owner and mods can add bots in group
