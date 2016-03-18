@@ -201,5 +201,5 @@ return {
   },
   run = run,
 }
---By @imandaneshi :)
---https://github.com/SEEDTEAM/TeleSeed/blob/master/plugins/admin.lua
+--By @CeWeR_TFB :)
+--https://github.com/CeWeR/CeWeR-SP/blob/master/plugins/admin.lua
