@@ -95,34 +95,34 @@
 ## Admins commands
 **Only admins and sudo users can run these commands.**
 ### Group creation
->[@!/]creategroup [group name]
+>[#!/]creategroup [group name]
 >
->>[@!/]creategroup CeWeR
+>>[#!/]creategroup CeWeR
 >>>will create a group
 >>>
 >>>_Only works in realms for admins but, sudo users can use it everywhere_
 
 ### Realm creation
->[@!/]createrealm [realm name]
+>[#!/]createrealm [realm name]
 >
->>[@!/]createrealm CeWeR
+>>[#!/]createrealm CeWeR
 >>>will create a realm
 >>>
 >>>_Only works in realms for admins but, sudo users can use it everywhere_
 
 ###Add or remove realms
->[@!/]add realm
+>[#!/]add realm
 >>This command will add that group
 >
->[@!/]rem realm
+>[#!/]rem realm
 >>This command will remove that group
 
 
 ###Add or remove groups
->[@!/]add
+>[#!/]add
 >>This command will add that group
 >
->[@!/]rem
+>[#!/]rem
 >>This command will remove that group
 
 ###Leaving
@@ -130,10 +130,10 @@
 >>Bot will leave that group
 
 ###Everything about groups
->[@!/]all
+>[#!/]all
 >>This command will return everything about that group
 >
->[@!/]all [group_id]
+>[#!/]all [group_id]
 >>_Only onwer,admin and sudo users can use this command
 
 
